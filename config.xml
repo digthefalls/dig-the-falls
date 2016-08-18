@@ -17,4 +17,11 @@
       Edwad M. Smathers
   </author>
 
+<!--
+    This allows your app to load assets from all *.phongap.com domains
+  -->
+  <access origin="http://phonegap.com" subdomains="true" />
+    <access origin="http://Google.com" subdomains="true" />
+      <access origin="http://digthefalls.com" subdomains="true" />
+  
 </widget>
